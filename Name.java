@@ -35,7 +35,7 @@ public class Name {
     }
 
     public String getFirst() {
-        /* return Name's first name */
+        return first;
     }
 
     public String getMiddle() {
